@@ -1,0 +1,4 @@
+chardet
+ftfy
+regex
+streamlit
