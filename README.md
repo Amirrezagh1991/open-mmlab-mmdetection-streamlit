@@ -1,4 +1,4 @@
-## MediaPipe Computer Vision Tasks with Streamlit
+## Open-mmlab MMDetection with Streamlit
 
 Welcome to the <a href="https://github.com/open-mmlab" style="text-decoration: none;">**OpenMMLab**</a> MMDetection webApp with Streamlit! 
 This repo is designed to provide a real-time object detection and tracking with 
@@ -10,10 +10,21 @@ This repo is designed to provide a real-time object detection and tracking with
 
 ## Getting Started
 
-To get started, simply follow the instructions below to set up the app on your local machine. Once the app is up and
-running, you can start exploring and experimenting with the various computer vision tasks offered by MediaPipe.
+To get started, simply follow the instructions below to set up the app on your local machine.
 
-- Clone this repo or download the zip folder
-- Configure your conda environment
-- Run command 'make' to install the required packages
-- Run the command "streamlit run app.py"
+
+## Installation
+
+   ```bash
+   git clone https://github.com/Amirrezagh1991/open-mmlab-mmdetection-streamlit.git
+   cd open-mmlab-mmdetection-streamlit
+   ```
+
+Configure your conda environment and then run the following commands to install dependencies and run the app.
+
+   ```bash
+   make
+   streamlit run app.py
+   ```
+
+This will start the Streamlit app locally, and you can access it in your web browser.
