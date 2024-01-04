@@ -6,7 +6,7 @@ This repo is designed to provide a real-time object detection and tracking with
 
 ## Demo
 
-![Short Demo](https://github.com/Amirrezagh1991/open-mmlab-mmdetection-streamlit/blob/main/demo/mmdetection.GIF?raw=true)
+<img src="https://github.com/Amirrezagh1991/open-mmlab-mmdetection-streamlit/blob/main/demo/mmdetection.GIF" alt="Short Demo" width="800">
 
 ## Getting Started
 
